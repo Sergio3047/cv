@@ -1,0 +1,40 @@
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+header, section{
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+}
+
+header{
+    background-color: deepskyblue;
+    padding-top: 16px; 
+    padding-left: 16px;
+    color: aliceblue;
+}
+
+article{
+    width: 60%;
+    padding-right: 70px;
+}
+
+ul{
+    list-style: upper-roman;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-right: 16px;
+}
+
+a, a:link, a:visited{
+    text-decoration: none;
+    color: gray;
+    font-weight: bold;
+}
+
